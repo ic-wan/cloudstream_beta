@@ -40,23 +40,299 @@
         "name": "JavHeyProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=nekopoi.care&sz=%size%",
-        "fileHash": "sha256-c526006a77a4c09944051f5e39d81b34ec3eea1fc39ab397f3340235f05af543",
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://allpornstream.com/&size=128",
+        "fileHash": "sha256-bab6be87c84cb32ec0d34bcc2b29b089e3f0535d3b85638d59d7277d8deffa01",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/HatsuneMikuUwU/cloudstream-extensions-uwu",
-        "fileSize": 40285,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 18366,
         "status": 1,
         "language": "id",
         "authors": [
-            "Miku"
+            "BetbetMiro"
         ],
         "tvTypes": [
             "NSFW"
         ],
         "version": 2,
-        "internalName": "NekopoiProvider",
-        "description": "NekoPoi \u2014 Streaming Hentai, Porn and JAV Subtitle Indonesia",
-        "url": "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/builds/NekopoiProvider.cs3",
-        "name": "NekopoiProvider"
+        "internalName": "Allpornstream",
+        "description": "Semua Aliran Porno - Video HD Porno Gratis. Tonton film seks definisi tinggi terbaik dengan gadis-gadis seksi. Allpornstream.com memberi Anda ribuan video porno 1080p, 4k, dan gratis, hd porn tube",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Allpornstream.cs3",
+        "name": "Allpornstream"
+    },
+  {
+    "iconUrl": "https://areajav.com/wp-content/uploads/2025/07/cropped-site-icon-04-purple.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+    "fileSize": 23307,
+    "status": 1,
+    "language": "id",
+    "authors": ["BetbetMiro"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Areajav",
+    "description": "🔞 Streaming 18+ Movie",
+    "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/master/Betbet/Areajav.cs3",
+    "name": "Areajav"
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.eporner.com/&size=128",
+        "fileHash": "sha256-783c3784c56d90e82cbc5ef74585e56d1caf2c93361430579bd797845222bca8",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 14839,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "sad25kag"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 8,
+        "internalName": "EPorner",
+        "description": "Nonton video film dewasa kualitas Full HD secara gratis. Koleksi lebih dari 4,9 juta film hardcore kualitas HD, 1080p, dan 4K yang bisa ditonton langsung atau diunduh.",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/EPorner.cs3",
+        "name": "EPorner"
+    },
+    {
+        "iconUrl": "https://pornone.com/favicon.ico",
+        "fileHash": "sha256-9e14c9c492565ce47a92f520e0d5672795d60306d36846a137f5fbf16993f6e3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 11172,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "PornOne",
+        "description": "Free Porn & HD Porno Videos in full length! Every minute new porn video for download and streaming. Tons of the Best XXX Movies daily from top porno tube PornOne.",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/PornOne.cs3",
+        "name": "PornOne"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaicity.com&sz=%size%",
+        "fileHash": "sha256-9c54ebca59f141679b61f1f5a756bffa8b9259d0db68f2a4275ce2957d9eddbd",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 21444,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "HentaiCity",
+        "description": "Provider CloudStream untuk HentaiCity",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/HentaiCity.cs3",
+        "name": "HentaiCity"
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hentaiworld.tv/&size=128",
+        "fileHash": "sha256-8b003e8466ea420cb52f349c0f3d4f9b5199ec83cfd56f66536c27b7069c9c1f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 23461,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "HentaiWorld",
+        "description": "Provider CloudStream untuk HentaiWorld",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/HentaiWorld.cs3",
+        "name": "HentaiWorld"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javfc2.xyz&sz=256",
+        "fileHash": "sha256-703cacb9fdda6daa5a6344c604629d940236642e645691786f322f3b4dfb103b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 29373,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "JavFC",
+        "description": "JavFC provider with refreshed categories, tolerant parsing, keyed episode playback, classic player src recovery, URL-decoded media candidates, and hardened extractor handling.",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/JavFC.cs3",
+        "name": "JavFC"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jav.guru&sz=%size%",
+        "fileHash": "sha256-bdd693a173e27e157884ca8a5116693a2ef952b0a05e71ed8e886e0739244ebe",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 38158,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 11,
+        "internalName": "JavGuru",
+        "description": "JavGuru",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/JavGuru.cs3",
+        "name": "JavGuru"
+    },
+    {
+        "iconUrl": "https://javhd.today/logo/javhd1.png",
+        "fileHash": "sha256-5ca4893c09b5e6c0292e73cce2cc95f5bfb87a161f85705c975ff85ebac9ba4c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 32653,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "JAVHd",
+        "description": "Provider JAVHD dengan kategori situs yang dirapikan, pencarian, subtitle eksternal, dan extractor playback aktif.",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/JAVHd.cs3",
+        "name": "JAVHd"
+    },
+    {
+        "iconUrl": "https://homecookingrocks.com/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
+        "fileHash": "sha256-11d28533cab8a81a63114884d00b145b75effc35f7ed6676ddbb662a838b1ddd",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 23771,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "JavHeyProvider",
+        "description": "IndoMax21 \u2014 Streaming Anime, Donghua, Hentai, Porn, Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/JavHeyProvider.cs3",
+        "name": "JavHeyProvider"
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://javtiful.com/main&size=128",
+        "fileHash": "sha256-f93b340f89fdc58603bf02ec9411841781e134339d5abfa3343b5b132cd18d9b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 16897,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "Javtiful",
+        "description": "Watch more than 60,000 Full HD JAV Online For Free at Javtiful",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Javtiful.cs3",
+        "name": "Javtiful"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javx.org&sz=%size%",
+        "fileHash": "sha256-f5d2ff9b0248f152e2d56acd50b6a6b6850431f1f975c9aaa9b81d4ca40c31dd",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 16270,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "Javx",
+        "description": "JAVX provider by sad25kag with source-backed categories and stable playback handling.",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Javx.cs3",
+        "name": "Javx"
+    },
+    {
+        "iconUrl": "https://missav.ws/missav/logo-square.png",
+        "fileHash": "sha256-5cf7a344c83dc1c1f4b9a4c3a4ff5b85b678b37ae52f4b89bb44d5d697e0e756",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 13379,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "MissAV",
+        "description": "Best Japan AV porn site, free forever, high speed, no lag, over 100,000 videos with daily update.",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/MissAV.cs3",
+        "name": "MissAV"
+    },
+    {
+        "iconUrl": "https://klikxxi.me/wp-content/uploads/2024/02/cropped-site-icon.png",
+        "fileHash": "sha256-23f239f489540f2469ea29ab1f71757218614dc393cce6c9b7a2699f1854a32b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 235988,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "XSMovies",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/XSMovies.cs3",
+        "name": "XSMovies"
+    },
+    {
+        "iconUrl": "https://static.xhpingcdn.com/xh-mobile/images/favicon/favicon-v2-512x512.png?v=1",
+        "fileHash": "sha256-1b51775759de1b9c4881b3e42e5348480fd8fc318a9be97eabd6966e26760ccb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/sad25kag/BetbetMiro-Extension",
+        "fileSize": 15764,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "BetbetMiro"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 9,
+        "internalName": "Xhamster",
+        "description": "Awas Jangan Coli Kawan",
+        "url": "https://raw.githubusercontent.com/sad25kag/BetbetMiro-Extension/builds/Xhamster.cs3",
+        "name": "Xhamster"
     }
 ]
