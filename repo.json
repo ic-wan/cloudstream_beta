@@ -1,1 +1,10 @@
+{
+  "name": "Blue-Lagoon",
+  "description": "NSFW Collection Repository for CloudStream",
+  "iconUrl": "https://i.ibb.co/q3YkdNRv/asm0d3usx.png",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ic-wan/cloudstream_beta/refs/heads/main/plugins.json"
+  ]
+}
 
